@@ -15,7 +15,7 @@ function App() {
     setInput(''); // Clear input right away
     
     try {
-      const res = await axios.post('http://localhost:8000/ask', 
+      const res = await axios.post('https://vercel.com/sahil-deys-projects/chat_bot/7Vc7CcxrVefNJX4E7KYUWCiyLML3/api/ask', 
         new URLSearchParams({ query: message }));
       
       // Add bot response
