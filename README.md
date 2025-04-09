@@ -1,6 +1,6 @@
-# Chatbot Application (RAG - Retrieval-Augmented Generation)
+# Chatbot Application (RAG - Retrieval-Augmented Generation) LIVE LINK - https://ragchatbot-two.vercel.app/
 
-LIVE LINK - https://ragchatbot-two.vercel.app/
+
 This is a full-stack chatbot application using FastAPI as the backend and React for the frontend. The chatbot leverages a Retrieval-Augmented Generation (RAG) pipeline for answering user queries from uploaded documents, such as insurance PDFs and support web pages.
 
 ## Project Structure
