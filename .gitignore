@@ -1,0 +1,11 @@
+# Backend
+__pycache__/
+*.pyc
+.env
+.vscode/
+
+# Frontend
+node_modules/
+build/
+.env
+.vite/
