@@ -15,7 +15,7 @@ function App() {
     setInput(''); // Clear input right away
     
     try {
-      const res = await axios.post('https://rag-chat-bot-eight.vercel.app/api/ask', 
+      const res = await axios.post('https://rag-chat-bot-1-3yoa.onrender.com/ask', 
         new URLSearchParams({ query: message }));
       
       // Add bot response
