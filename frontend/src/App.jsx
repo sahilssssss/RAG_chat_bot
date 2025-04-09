@@ -25,7 +25,7 @@ function App() {
       // Add error message
       setMessages([...updatedMessages, { 
         sender: 'bot', 
-        text: 'Sorry, I encountered an error. Please try again.' 
+        text: 'I dont know' 
       }]);
     }
   }
